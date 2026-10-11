@@ -4,6 +4,8 @@ A Redmi-style desktop clock for KDE Plasma 6, maintained by [SimonQvQ](https://g
 
 ## 安装 / Install
 
+[KDE Store: Redmi Clock Weather 0.1](https://store.kde.org/p/2378089/) · [GitHub downloads](https://github.com/SimonQvQ/redmi-clock-nmc/releases/tag/v0.1)
+
 Download `redmi-clock-weather-0.1.plasmoid`. Right-click the desktop → Add Widgets → Get New Widgets → Install Widget From Local File. Choose the file and add **Redmi Clock Weather** to the desktop.
 
 下载 `.plasmoid` 后，右键桌面 → 添加小部件 → 获取新小部件 → 从本地文件安装，选择安装包，再添加 Redmi Clock Weather。
