@@ -7,4 +7,9 @@ ConfigModel {
 		icon: "preferences-desktop"
 		source: "GeneralConfig.qml"
 	}
+    ConfigCategory {
+        name: i18n("Usage instructions")
+        icon: "help-contents"
+        source: "Usage.qml"
+    }
 }

@@ -6,6 +6,10 @@
   <kcfgfile name=""/>
 
   <group name="General">
+    <entry name="qweatherPage" type="String"><default></default></entry>
+    <entry name="weatherProvider" type="String"><default>nmc</default></entry>
+    <entry name="weatherLatitude" type="String"><default></default></entry>
+    <entry name="weatherLongitude" type="String"><default></default></entry>
     <entry name="nmcCity" type="String"><default></default></entry>
     <entry name="nmcStationId" type="String"><default></default></entry>
 	<entry name="useCoordinatesIp" type="bool">

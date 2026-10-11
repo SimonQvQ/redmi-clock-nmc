@@ -20,6 +20,10 @@ PlasmoidItem {
         id: weatherData
         city: Plasmoid.configuration.nmcCity
         stationId: Plasmoid.configuration.nmcStationId
+        provider: Plasmoid.configuration.weatherProvider
+        qweatherPage: Plasmoid.configuration.qweatherPage
+        latitude: Plasmoid.configuration.weatherLatitude
+        longitude: Plasmoid.configuration.weatherLongitude
         temperatureUnit: Plasmoid.configuration.temperatureUnit
     }
 

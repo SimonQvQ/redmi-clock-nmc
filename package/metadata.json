@@ -2,13 +2,12 @@
   "KPlugin": {
     "Authors": [
       {
-        "Email": "adolfo@librepixels.com",
-        "Name": "zayronxio"
+        "Name": "SimonQvQ"
       }
     ],
-    "Name": "Redmi Clock",
-    "Id": "Redmi.Clock",
-    "Description": "Redmi Clock with configurable domestic weather from the Central Meteorological Observatory",
+    "Name": "Redmi Clock Weather",
+    "Id": "org.simonqvq.redmiclock",
+    "Description": "Redmi-style clock with NMC, Open-Meteo, QWeather and OpenWeather web sources",
     "Category": "Utilities",
     "Icon": "clock",
     "EnabledByDefault": true,
@@ -16,8 +15,9 @@
     "ServiceTypes": [
       "Plasma/Applet"
     ],
-    "Version": "0.6.4.2",
-    "Website": "https://store.kde.org/p/2175475"
+    "Version": "0.1",
+    "Website": "https://github.com/SimonQvQ/redmi-clock-nmc",
+    "Description[zh_CN]": "由 SimonQvQ 维护的 Redmi 风格时钟，支持中央气象台、Open-Meteo、和风与 OpenWeather 网页天气源。"
   },
   "X-Plasma-API-Minimum-Version": "6.0",
   "X-Plasma-MainScript": "ui/main.qml",
